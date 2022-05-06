@@ -106,7 +106,6 @@ dist
 # Firebase Files
 .firebase
 .firebaserc
-firebase.json
 
 # github
 .github
