@@ -107,3 +107,6 @@ dist
 .firebase
 .firebaserc
 firebase.json
+
+# github
+.github
