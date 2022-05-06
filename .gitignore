@@ -104,5 +104,6 @@ dist
 .tern-port
 
 # Firebase Files
-
-/firebase
+.firebase
+.firebaserc
+firebase.json
